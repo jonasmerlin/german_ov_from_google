@@ -1,0 +1,1384 @@
+(lp0
+VBerlin
+p1
+aVHamburg
+p2
+aVMünchen
+p3
+aVKöln
+p4
+aVFrankfurt am Main
+p5
+aVStuttgart
+p6
+aVDüsseldorf
+p7
+aVDortmund
+p8
+aVEssen
+p9
+aVLeipzig
+p10
+aVBremen
+p11
+aVDresden
+p12
+aVHannover
+p13
+aVNürnberg
+p14
+aVDuisburg
+p15
+aVBochum
+p16
+aVWuppertal
+p17
+aVBielefeld
+p18
+aVBonn
+p19
+aVMünster (Westfalen)|Münster
+p20
+aVKarlsruhe
+p21
+aVMannheim
+p22
+aVAugsburg
+p23
+aVWiesbaden
+p24
+aVGelsenkirchen
+p25
+aVMönchengladbach
+p26
+aVBraunschweig
+p27
+aVChemnitz
+p28
+aVKiel
+p29
+aVAachen
+p30
+aVHalle (Saale)
+p31
+aVMagdeburg
+p32
+aVFreiburg im Breisgau
+p33
+aVKrefeld
+p34
+aVLübeck
+p35
+aVOberhausen
+p36
+aVErfurt
+p37
+aVMainz
+p38
+aVRostock
+p39
+aVKassel
+p40
+aVHagen
+p41
+aVHamm
+p42
+aVSaarbrücken
+p43
+aVMülheim an der Ruhr
+p44
+aVPotsdam
+p45
+aVLudwigshafen am Rhein
+p46
+aVOldenburg (Oldenburg)|Oldenburg
+p47
+aVLeverkusen
+p48
+aVOsnabrück
+p49
+aVSolingen
+p50
+aVHeidelberg
+p51
+aVHerne
+p52
+aVNeuss
+p53
+aVDarmstadt
+p54
+aVPaderborn
+p55
+aVRegensburg
+p56
+aVIngolstadt
+p57
+aVWürzburg
+p58
+aVFürth
+p59
+aVWolfsburg
+p60
+aVOffenbach am Main
+p61
+aVUlm
+p62
+aVHeilbronn
+p63
+aVPforzheim
+p64
+aVGöttingen
+p65
+aVBottrop
+p66
+aVTrier
+p67
+aVRecklinghausen
+p68
+aVReutlingen
+p69
+aVBremerhaven
+p70
+aVKoblenz
+p71
+aVBergisch Gladbach
+p72
+aVJena
+p73
+aVRemscheid
+p74
+aVErlangen
+p75
+aVMoers
+p76
+aVSiegen
+p77
+aVHildesheim
+p78
+aVSalzgitter
+p79
+aVCottbus
+p80
+aVKaiserslautern
+p81
+aVGütersloh
+p82
+aVSchwerin
+p83
+aVWitten
+p84
+aVGera
+p85
+aVIserlohn
+p86
+aVLudwigsburg
+p87
+aVHanau
+p88
+aVEsslingen am Neckar
+p89
+aVZwickau
+p90
+aVDüren
+p91
+aVRatingen
+p92
+aVTübingen
+p93
+aVFlensburg
+p94
+aVLünen
+p95
+aVVillingen-Schwenningen
+p96
+aVGießen
+p97
+aVMarl
+p98
+aVDessau-Roßlau
+p99
+aVKonstanz
+p100
+aVWorms
+p101
+aVMinden
+p102
+aVVelbert
+p103
+aVNeumünster
+p104
+aVNorderstedt
+p105
+aVDelmenhorst
+p106
+aVWilhelmshaven
+p107
+aVViersen
+p108
+aVGladbeck
+p109
+aVDorsten
+p110
+aVRheine
+p111
+aVDetmold
+p112
+aVTroisdorf
+p113
+aVCastrop-Rauxel
+p114
+aVLüneburg
+p115
+aVMarburg
+p116
+aVArnsberg
+p117
+aVLüdenscheid
+p118
+aVBamberg
+p119
+aVBayreuth
+p120
+aVBrandenburg an der Havel
+p121
+aVBocholt
+p122
+aVCelle
+p123
+aVLandshut
+p124
+aVAschaffenburg
+p125
+aVDinslaken
+p126
+aVAalen
+p127
+aVFulda
+p128
+aVLippstadt
+p129
+aVKempten (Allgäu)
+p130
+aVHerford
+p131
+aVKerpen
+p132
+aVPlauen
+p133
+aVNeuwied
+p134
+aVWeimar
+p135
+aVDormagen
+p136
+aVSindelfingen
+p137
+aVNeubrandenburg
+p138
+aVGrevenbroich
+p139
+aVRüsselsheim am Main
+p140
+aVRosenheim
+p141
+aVHerten
+p142
+aVWesel
+p143
+aVGarbsen
+p144
+aVBergheim
+p145
+aVSchwäbisch Gmünd
+p146
+aVHürth
+p147
+aVUnna
+p148
+aVFriedrichshafen
+p149
+aVOffenburg
+p150
+aVFrankfurt (Oder)
+p151
+aVStralsund
+p152
+aVLangenfeld (Rheinland)
+p153
+aVGreifswald
+p154
+aVNeu-Ulm
+p155
+aVGöppingen
+p156
+aVEuskirchen
+p157
+aVStolberg (Rheinland)
+p158
+aVHameln
+p159
+aVEschweiler
+p160
+aVSankt Augustin
+p161
+aVGörlitz
+p162
+aVHilden
+p163
+aVMeerbusch
+p164
+aVHattingen
+p165
+aVWaiblingen
+p166
+aVPulheim
+p167
+aVBaden-Baden
+p168
+aVMenden (Sauerland)
+p169
+aVBad Salzuflen
+p170
+aVLangenhagen
+p171
+aVNordhorn
+p172
+aVLingen (Ems)
+p173
+aVBad Homburg vor der Höhe
+p174
+aVNeustadt an der Weinstraße
+p175
+aVAhlen
+p176
+aVWolfenbüttel
+p177
+aVFrechen
+p178
+aVSchweinfurt
+p179
+aVWetzlar
+p180
+aVIbbenbüren
+p181
+aVGoslar
+p182
+aVWillich
+p183
+aVEmden
+p184
+aVPassau
+p185
+aVGummersbach
+p186
+aVSpeyer
+p187
+aVRavensburg
+p188
+aVErftstadt
+p189
+aVKleve
+p190
+aVBad Kreuznach
+p191
+aVPeine
+p192
+aVLörrach
+p193
+aVBad Oeynhausen
+p194
+aVBöblingen
+p195
+aVElmshorn
+p196
+aVFrankenthal (Pfalz)
+p197
+aVCuxhaven
+p198
+aVRastatt
+p199
+aVHeidenheim an der Brenz
+p200
+aVRheda-Wiedenbrück
+p201
+aVSoest
+p202
+aVBergkamen
+p203
+aVBornheim (Rheinland)|Bornheim
+p204
+aVSingen (Hohentwiel)
+p205
+aVLeonberg
+p206
+aVGronau (Westf.)
+p207
+aVFreising
+p208
+aVHennef (Sieg)
+p209
+aVAlsdorf
+p210
+aVStraubing
+p211
+aVSchwerte
+p212
+aVDachau
+p213
+aVDülmen
+p214
+aVHerzogenrath
+p215
+aVLutherstadt Wittenberg|Wittenberg, Lutherstadt
+p216
+aVStade
+p217
+aVNeunkirchen (Saar)|Neunkirchen
+p218
+aVMelle
+p219
+aVOberursel (Taunus)
+p220
+aVBünde
+p221
+aVGotha
+p222
+aVLandau in der Pfalz
+p223
+aVFellbach
+p224
+aVFilderstadt
+p225
+aVLahr/Schwarzwald
+p226
+aVWeinheim
+p227
+aVBrühl (Rheinland)|Brühl
+p228
+aVHof (Saale)|Hof
+p229
+aVAlbstadt
+p230
+aVRodgau
+p231
+aVBruchsal
+p232
+aVErkrath
+p233
+aVNeustadt am Rübenberge
+p234
+aVKamen
+p235
+aVHalberstadt
+p236
+aVLehrte
+p237
+aVOranienburg
+p238
+aVErkelenz
+p239
+aVKaarst
+p240
+aVRottenburg am Neckar
+p241
+aVBietigheim-Bissingen
+p242
+aVMemmingen
+p243
+aVKaufbeuren
+p244
+aVFalkensee
+p245
+aVWismar
+p246
+aVEisenach
+p247
+aVBorken
+p248
+aVPinneberg
+p249
+aVNordhausen
+p250
+aVWeiden in der Oberpfalz
+p251
+aVHomburg
+p252
+aVNettetal
+p253
+aVGifhorn
+p254
+aVAmberg
+p255
+aVFreiberg
+p256
+aVHeinsberg
+p257
+aVAurich
+p258
+aVLemgo
+p259
+aVCoburg
+p260
+aVWunstorf
+p261
+aVAnsbach
+p262
+aVSiegburg
+p263
+aVSeevetal
+p264
+aVLaatzen
+p265
+aVMonheim am Rhein
+p266
+aVKönigswinter
+p267
+aVDreieich
+p268
+aVNürtingen
+p269
+aVBitterfeld-Wolfen
+p270
+aVSchwabach
+p271
+aVWeißenfels
+p272
+aVStendal
+p273
+aVBuxtehude
+p274
+aVPirmasens
+p275
+aVKirchheim unter Teck
+p276
+aVLöhne
+p277
+aVBensheim
+p278
+aVBautzen
+p279
+aVFreital
+p280
+aVHückelhoven
+p281
+aVHofheim am Taunus
+p282
+aVGermering
+p283
+aVNeumarkt in der Oberpfalz
+p284
+aVEberswalde
+p285
+aVAhaus
+p286
+aVSchorndorf
+p287
+aVVölklingen
+p288
+aVLeinfelden-Echterdingen
+p289
+aVEttlingen
+p290
+aVWürselen
+p291
+aVSchwäbisch Hall
+p292
+aVOstfildern
+p293
+aVBuchholz in der Nordheide
+p294
+aVMettmann
+p295
+aVMaintal
+p296
+aVHaltern am See
+p297
+aVPirna
+p298
+aVKamp-Lintfort
+p299
+aVNiederkassel
+p300
+aVNeu-Isenburg
+p301
+aVWarendorf
+p302
+aVBernau bei Berlin
+p303
+aVLangen (Hessen)|Langen
+p304
+aVSuhl
+p305
+aVPapenburg
+p306
+aVVoerde (Niederrhein)
+p307
+aVGreven
+p308
+aVBeckum
+p309
+aVEmsdetten
+p310
+aVSankt Ingbert
+p311
+aVBacknang
+p312
+aVErding
+p313
+aVCoesfeld
+p314
+aVBramsche
+p315
+aVWesseling
+p316
+aVKönigs Wusterhausen
+p317
+aVFürstenfeldbruck
+p318
+aVPorta Westfalica (Stadt)|Porta Westfalica
+p319
+aVSinsheim
+p320
+aVLage (Lippe)|Lage
+p321
+aVKehl
+p322
+aVMeppen
+p323
+aVKempen
+p324
+aVSaarlouis
+p325
+aVTuttlingen
+p326
+aVMühlhausen/Thüringen
+p327
+aVDatteln
+p328
+aVWermelskirchen
+p329
+aVZweibrücken
+p330
+aVLimburg an der Lahn
+p331
+aVViernheim
+p332
+aVRadebeul
+p333
+aVMerseburg
+p334
+aVLeer (Ostfriesland)|Leer
+p335
+aVBernburg (Saale)
+p336
+aVWinsen (Luhe)
+p337
+aVGoch
+p338
+aVHoyerswerda
+p339
+aVGeldern
+p340
+aVCloppenburg
+p341
+aVUelzen
+p342
+aVCrailsheim
+p343
+aVSteinfurt
+p344
+aVBalingen
+p345
+aVMörfelden-Walldorf
+p346
+aVBarsinghausen
+p347
+aVHemer
+p348
+aVDietzenbach
+p349
+aVSeelze
+p350
+aVKornwestheim
+p351
+aVWernigerode
+p352
+aVStuhr
+p353
+aVBad Vilbel
+p354
+aVNaumburg (Saale)
+p355
+aVKorschenbroich
+p356
+aVAltenburg
+p357
+aVWedel
+p358
+aVRheinfelden (Baden)
+p359
+aVAhrensburg
+p360
+aVJülich
+p361
+aVLampertheim
+p362
+aVBiberach an der Riß
+p363
+aVDeggendorf
+p364
+aVDelbrück
+p365
+aVItzehoe
+p366
+aVFürstenwalde/Spree
+p367
+aVForchheim
+p368
+aVBad Nauheim
+p369
+aVVechta
+p370
+aVGeorgsmarienhütte
+p371
+aVKreuztal
+p372
+aVOer-Erkenschwick
+p373
+aVSchönebeck (Elbe)|Schönebeck
+p374
+aVEinbeck
+p375
+aVGevelsberg
+p376
+aVNienburg/Weser
+p377
+aVAchim (Landkreis Verden)|Achim
+p378
+aVRheinberg
+p379
+aVHerrenberg
+p380
+aVEmmerich am Rhein
+p381
+aVGanderkesee
+p382
+aVRadolfzell am Bodensee
+p383
+aVGeestland
+p384
+aVRiesa
+p385
+aVNeuruppin
+p386
+aVWerl
+p387
+aVEisenhüttenstadt
+p388
+aVHaan
+p389
+aVWeyhe
+p390
+aVLohmar
+p391
+aVOsterholz-Scharmbeck
+p392
+aVSchwedt/Oder
+p393
+aVBurgdorf (Region Hannover)|Burgdorf
+p394
+aVMeschede
+p395
+aVWeil am Rhein
+p396
+aVGeesthacht
+p397
+aVWerne
+p398
+aVMerzig
+p399
+aVEnnepetal
+p400
+aVHöxter
+p401
+aVAndernach
+p402
+aVRietberg
+p403
+aVWedemark
+p404
+aVWaltrop
+p405
+aVFriedberg (Bayern)|Friedberg
+p406
+aVOelde
+p407
+aVTönisvorst
+p408
+aVNeuburg an der Donau
+p409
+aVBad Hersfeld
+p410
+aVTaunusstein
+p411
+aVZeitz
+p412
+aVGaggenau
+p413
+aVNortheim
+p414
+aVBühl (Baden)|Bühl
+p415
+aVGüstrow
+p416
+aVBretten
+p417
+aVLandsberg am Lech
+p418
+aVVaihingen an der Enz
+p419
+aVSpringe
+p420
+aVSchwandorf
+p421
+aVGrimma
+p422
+aVKelkheim (Taunus)
+p423
+aVRösrath
+p424
+aVIdar-Oberstein
+p425
+aVSchwelm
+p426
+aVKevelaer
+p427
+aVBad Zwischenahn
+p428
+aVMühlheim am Main
+p429
+aVSundern (Sauerland)
+p430
+aVFriedberg (Hessen)
+p431
+aVUnterschleißheim
+p432
+aVLeichlingen (Rheinland)
+p433
+aVMeißen
+p434
+aVWinnenden
+p435
+aVWegberg
+p436
+aVWetter (Ruhr)
+p437
+aVAschersleben
+p438
+aVKönigsbrunn
+p439
+aVSangerhausen
+p440
+aVHenstedt-Ulzburg
+p441
+aVBaunatal
+p442
+aVRendsburg
+p443
+aVBad Neuenahr-Ahrweiler
+p444
+aVEmmendingen
+p445
+aVOverath
+p446
+aVRödermark
+p447
+aVRheinbach
+p448
+aVNeukirchen-Vluyn
+p449
+aVMechernich
+p450
+aVGeislingen an der Steige
+p451
+aVWangen im Allgäu
+p452
+aVSchloß Holte-Stukenbrock
+p453
+aVReinbek
+p454
+aVVerden (Aller)
+p455
+aVHamminkeln
+p456
+aVGeilenkirchen
+p457
+aVLeimen (Baden)|Leimen
+p458
+aVHattersheim am Main
+p459
+aVGriesheim
+p460
+aVOlching
+p461
+aVGarmisch-Partenkirchen
+p462
+aVBaesweiler
+p463
+aVWeinstadt
+p464
+aVStaßfurt
+p465
+aVSelm
+p466
+aVEllwangen (Jagst)
+p467
+aVIngelheim am Rhein
+p468
+aVKöthen (Anhalt)
+p469
+aVWiesloch
+p470
+aVLauf an der Pegnitz
+p471
+aVNordenham
+p472
+aVBlankenfelde-Mahlow
+p473
+aVNeckarsulm
+p474
+aVHennigsdorf
+p475
+aVBrilon
+p476
+aVStrausberg
+p477
+aVIlmenau
+p478
+aVLennestadt
+p479
+aVSt. Wendel
+p480
+aVLohne (Oldenburg)
+p481
+aVKulmbach
+p482
+aVHeiligenhaus
+p483
+aVPlettenberg
+p484
+aVRemseck am Neckar
+p485
+aVZittau
+p486
+aVPetershagen
+p487
+aVBad Honnef
+p488
+aVMühlacker
+p489
+aVButzbach
+p490
+aVHohen Neuendorf
+p491
+aVVerl
+p492
+aVEhingen (Donau)|Ehingen
+p493
+aVTeltow
+p494
+aVLübbecke
+p495
+aVWeiterstadt
+p496
+aVWarstein
+p497
+aVHeppenheim (Bergstraße)
+p498
+aVWiehl
+p499
+aVSchmallenberg
+p500
+aVPfaffenhofen an der Ilm
+p501
+aVSprockhövel
+p502
+aVRinteln
+p503
+aVSalzkotten
+p504
+aVLindau (Bodensee)
+p505
+aVNorden (Ostfriesland)|Norden
+p506
+aVFriedrichsdorf
+p507
+aVSaalfeld/Saale
+p508
+aVLudwigsfelde
+p509
+aVAchern
+p510
+aVBingen am Rhein
+p511
+aVBad Oldesloe
+p512
+aVEspelkamp
+p513
+aVRottweil
+p514
+aVWerder (Havel)
+p515
+aVDelitzsch
+p516
+aVRoth
+p517
+aVHarsewinkel
+p518
+aVOlpe
+p519
+aVAttendorn
+p520
+aVHorb am Neckar
+p521
+aVGroß-Gerau
+p522
+aVDitzingen
+p523
+aVZirndorf
+p524
+aVSenftenberg
+p525
+aVQuedlinburg
+p526
+aVPfungstadt
+p527
+aVArnstadt
+p528
+aVWeingarten (Württemberg)|Weingarten
+p529
+aVObertshausen
+p530
+aVUnterhaching
+p531
+aVSalzwedel
+p532
+aVGeretsried
+p533
+aVRathenow
+p534
+aVÜbach-Palenberg
+p535
+aVMeckenheim (Rheinland)|Meckenheim
+p536
+aVSchleswig
+p537
+aVLüdinghausen
+p538
+aVMarkkleeberg
+p539
+aVLutherstadt Eisleben|Eisleben, Lutherstadt
+p540
+aVIdstein
+p541
+aVHann. Münden
+p542
+aVStutensee
+p543
+aVLimbach-Oberfrohna
+p544
+aVSyke
+p545
+aVVarel
+p546
+aVIsernhagen
+p547
+aVRonnenberg
+p548
+aVSonneberg
+p549
+aVWaldshut-Tiengen
+p550
+aVWarburg
+p551
+aVHaren (Ems)
+p552
+aVKorbach
+p553
+aVDillenburg
+p554
+aVSehnde
+p555
+aVÖhringen
+p556
+aVAlfter
+p557
+aVWertheim
+p558
+aVNetphen
+p559
+aVBedburg
+p560
+aVJüchen
+p561
+aVGlauchau
+p562
+aVHelmstedt
+p563
+aVCalw
+p564
+aVWalsrode
+p565
+aVGardelegen
+p566
+aVMoormerland
+p567
+aVHerzogenaurach
+p568
+aVBad Mergentheim
+p569
+aVWallenhorst
+p570
+aVMosbach
+p571
+aVRiedstadt
+p572
+aVBurg (bei Magdeburg)|Burg
+p573
+aVStarnberg
+p574
+aVWaldkraiburg
+p575
+aVRudolstadt
+p576
+aVHerdecke
+p577
+aVVaterstetten
+p578
+aVVreden
+p579
+aVGelnhausen
+p580
+aVFreudenstadt
+p581
+aVLengerich (Westfalen)|Lengerich
+p582
+aVHusum
+p583
+aVÜberlingen
+p584
+aVLeutkirch im Allgäu
+p585
+aVRadevormwald
+p586
+aVApolda
+p587
+aVSchwetzingen
+p588
+aVSpremberg
+p589
+aVOsterode am Harz
+p590
+aVWeilheim in Oberbayern
+p591
+aVKarben
+p592
+aVBad Soden am Taunus
+p593
+aVWesterstede
+p594
+aVWandlitz
+p595
+aVZerbst/Anhalt
+p596
+aVSondershausen
+p597
+aVRastede
+p598
+aVFriesoythe
+p599
+aVSenden (Bayern)|Senden
+p600
+aVGersthofen
+p601
+aVStadtallendorf
+p602
+aVEckernförde
+p603
+aVEdewecht
+p604
+aVStadthagen
+p605
+aVBüdingen
+p606
+aVBüren (Westfalen)|Büren
+p607
+aVDonaueschingen
+p608
+aVBad Harzburg
+p609
+aVHalle (Westf.)
+p610
+aVBad Kissingen
+p611
+aVNagold (Stadt)|Nagold
+p612
+aVNeusäß
+p613
+aVIlsede
+p614
+aVMetzingen
+p615
+aVWaldkirch
+p616
+aVDöbeln
+p617
+aVXanten
+p618
+aVWipperfürth
+p619
+aVHeide (Holstein)|Heide
+p620
+aVSoltau
+p621
+aVRotenburg (Wümme)
+p622
+aVLindlar
+p623
+aVRees
+p624
+aVEppingen
+p625
+aVSonthofen
+p626
+aVOttobrunn
+p627
+aVElsdorf (Rheinland)|Elsdorf
+p628
+aVMeiningen
+p629
+aVVersmold
+p630
+aVWülfrath
+p631
+aVWaren (Müritz)
+p632
+aVLaupheim
+p633
+aVHockenheim
+p634
+aVPuchheim
+p635
+aVDuderstadt
+p636
+aVGeseke
+p637
+aVAichach
+p638
+aVGreiz
+p639
+aVSchwanewede
+p640
+aVWerdau
+p641
+aVBlieskastel
+p642
+aVSchramberg
+p643
+aVSeligenstadt
+p644
+aVFröndenberg/Ruhr
+p645
+aVCoswig (Sachsen)|Coswig
+p646
+aVNeu Wulmstorf
+p647
+aVEschborn
+p648
+aVGroß-Umstadt
+p649
+aVHerborn
+p650
+aVTraunreut
+p651
+aVKitzingen
+p652
+aVSteinhagen (Westfalen)|Steinhagen
+p653
+aVWittmund
+p654
+aVMeinerzhagen
+p655
+aVEnger
+p656
+aVKleinmachnow
+p657
+aVBurgwedel
+p658
+aVWaghäusel
+p659
+aVFlörsheim am Main
+p660
+aVQuickborn
+p661
+aVGermersheim
+p662
+aVHaar (bei München)|Haar
+p663
+aVWilnsdorf
+p664
+aVBad Rappenau
+p665
+aVNeustrelitz
+p666
+aVWestoverledingen
+p667
+aVWachtberg
+p668
+aVSenden (Westfalen)|Senden
+p669
+aVAnnaberg-Buchholz
+p670
+aVBruchköbel
+p671
+aVStadtlohn
+p672
+aVLuckenwalde
+p673
+aVKaltenkirchen
+p674
+aVRheinstetten
+p675
+aVSchortens
+p676
+aVDillingen/Saar
+p677
+aVBlankenburg (Harz)
+p678
+aVGauting
+p679
+aVHaßloch
+p680
+aVEislingen/Fils
+p681
+aVLichtenfels (Oberfranken)|Lichtenfels
+p682
+aVPanketal
+p683
+aVUetze
+p684
+aVHolzminden
+p685
+aVKarlsfeld
+p686
+aVZülpich
+p687
+aVTorgau
+p688
+aVGünzburg
+p689
+aVEnnigerloh
+p690
+aVBad Waldsee
+p691
+a.
