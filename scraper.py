@@ -40,7 +40,7 @@ dates = {
 
 with open("cities.txt", "rb") as f:
     cities = pickle.load(f)
-    for city in cities[:3]:
+    for city in cities:
         for i in range(4):
             replaced_city = city.encode("utf-8").replace(" ", "+")
             url = "http://www.google.com/movies?near={}&date={}".format(replaced_city, i)
