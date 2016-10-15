@@ -29,6 +29,7 @@ import datetime
 
 from bs4 import BeautifulSoup
 import scraperwiki
+import requests
 
 dates = {
     0: datetime.date.today(),
@@ -43,14 +44,14 @@ with open("cities.txt", "rb") as f:
         for i in range(4):
             replaced_city = city.encode("utf-8").replace(" ", "+")
             url = "http://www.google.com/movies?near={}&date={}".format(replaced_city, i)
-            page = scraperwiki.scrape(url)
-            soup = BeautifulSoup(page, "html.parser")
+            page = requests.get(url)
+            soup = BeautifulSoup(page.text, "html.parser")
             movies = soup.find_all(string=re.compile(".*\(OV\).*"))
             for movie in movies:
                 complete_info = movie.find_parent('div', class_="movie")
                 theater = movie.find_parent("div", class_="theater")
                 data = {
-                    "stadt": city.encode("utf-8"),
+                    "stadt": unicode(city),
                     "kino": unicode(theater.find("h2", class_="name").string),
                     "film": unicode(complete_info.find("div", class_="name").string),
                     "tag": dates[i],
