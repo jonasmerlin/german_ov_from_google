@@ -50,9 +50,9 @@ with open("cities.txt", "rb") as f:
                 complete_info = movie.find_parent('div', class_="movie")
                 theater = movie.find_parent("div", class_="theater")
                 data = {
-                    "stadt": city,
-                    "kino": theater.find("h2", class_="name").string,
-                    "film": complete_info.find("div", class_="name").string,
+                    "stadt": city.encode("utf-8"),
+                    "kino": unicode(theater.find("h2", class_="name").string),
+                    "film": unicode(complete_info.find("div", class_="name").string),
                     "tag": dates[i],
                     "zeiten": ",".join([child.contents[2] for child in complete_info.find("div", class_="times").children])
                 }
