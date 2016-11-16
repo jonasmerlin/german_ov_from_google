@@ -41,7 +41,7 @@ dates = {
     3: datetime.date.today() + datetime.timedelta(3),
 }
 
-scraperwiki.sql.execute("DELETE * FROM data");
+scraperwiki.sqlite.execute("DELETE * FROM data");
 
 with open("cities.txt", "rb") as f:
     cities = pickle.load(f)
