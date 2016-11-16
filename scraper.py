@@ -24,6 +24,7 @@
 # called "data".
 
 # TODO: look if encoding can be set at save
+# TODO: delete db contents before saving
 
 import re
 import pickle
@@ -39,6 +40,8 @@ dates = {
     2: datetime.date.today() + datetime.timedelta(2),
     3: datetime.date.today() + datetime.timedelta(3),
 }
+
+scraperwiki.sql.execute("DELETE * FROM data");
 
 with open("cities.txt", "rb") as f:
     cities = pickle.load(f)
